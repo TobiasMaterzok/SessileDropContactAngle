@@ -6,7 +6,7 @@ The calculated contact angle is shown against time. Solid lines are values from 
 
 ## Technology Highlights:
 
-ContactAngleAnalyzer is a Python-based project developed for the robust calculation of the contact angle of a sessile droplet in molecular dynamics (MD) simulations. 
+SessileDropContactAngle is a Python-based project developed for the robust calculation of the contact angle of a sessile droplet in molecular dynamics (MD) simulations. 
 This tool is built on top of several prominent libraries:
 
  - MDAnalysis for analyzing and manipulating molecular dynamics simulations,
@@ -81,7 +81,7 @@ pip install numpy MDAnalysis scipy
  2. Clone this repository to your local machine using:
 
 ```
-git clone https://github.com/<your_username>/ContactAngleAnalyzer.git
+git clone https://github.com/TobiasMaterzok/SessileDropContactAngle.git
 ```
 
 Make sure to replace <your_username> with your actual GitHub username.
@@ -89,7 +89,7 @@ Make sure to replace <your_username> with your actual GitHub username.
  3. Navigate to the directory where the script is located:
 
 ```
-cd ContactAngleAnalyzer
+cd SessileDropContactAngle
 ```
 
  4. Run the script using the command:
