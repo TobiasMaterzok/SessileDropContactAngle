@@ -23,9 +23,9 @@ def parse_contact_angle_arguments():
     -s : str, optional
         Input TPR topology file, default='run_hydrophilic_production_layer.tpr'
     -o : str, optional
-        Output file prefix for z-bin data, default='zbin'
+        Output file prefix, default='zbin'
     -o2 : str, optional
-        Output file prefix for other outputs, default='hydrophilic'
+        Output file prefix and type of surface, default='hydrophilic'
     -bin : float, optional
         Bin width for z-axis (in Angstrom), default=4.0
     -b : int, optional
