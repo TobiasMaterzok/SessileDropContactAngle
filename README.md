@@ -15,6 +15,8 @@ This tool is built on top of several prominent libraries:
 
 This tool provides an automatic, precise and readable approach to determine the contact angle, a critical parameter in the study of numerous physical and chemical processes like wetting, adsorption, and surface tension phenomena.
 
+While traditional methods like circular and elliptical fits require symmetric droplet shapes and are limited to specific contact angle ranges, our approach utilizing linear and spline fitting is robust as it handles asymmetry and accommodates a wide range of contact angles, providing robust results across various droplet shapes and contact angles.
+
 ### If you use SessileDropContactAngle in your work, please cite the following paper:
 
 Materzok, T.; Canestraight, A.; Gorb, S.; Müller-Plathe, F. ["How Does Gecko Keratin Stick to Hydrophilic and Hydrophobic Surfaces in the Presence and Absence of Water? An Atomistic Molecular Dynamics Investigation"](https://doi.org/10.1021/acsnano.2c08627). ACS Nano 2022, 16 (11), 19261–19270.
